@@ -1,9 +1,6 @@
 import heapq
 
 
-
-
-
 def sorter(a):
     jan = 0
     feb = 0
